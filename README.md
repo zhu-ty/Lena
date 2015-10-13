@@ -1,8 +1,8 @@
 # Lena
 A homework for Digital Image Processing.
 
-Using VS2013 Pro + opencv2.4.9 for coding.
+Using C++ at VS2013 Pro with opencv2.4.9 for coding.
 
-Running it on Windows8.1, not sure can working on other's computer.
+My computer is Windows8.1, not sure can work on other's computer.
 
 Author:ShadowK
